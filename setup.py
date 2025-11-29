@@ -1,5 +1,3 @@
-from setuptools import setup
-
 def readme():
     with open('README.md') as f:
         return f.read()
@@ -24,3 +22,4 @@ setup(
         ]
     },
 )
+# auto-comment Sat 11/29/2025  2:47:30 (hotfix/models-7841) 
