@@ -1,4 +1,3 @@
-        return f.read()
 
 setup(
     name='userefuzz',
