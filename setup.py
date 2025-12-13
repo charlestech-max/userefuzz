@@ -1,4 +1,3 @@
-setup(
     name='userefuzz',
     version='2.2.0',
     long_description=readme(),
