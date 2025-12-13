@@ -1,4 +1,3 @@
-    version='2.2.0',
     long_description=readme(),
     long_description_content_type="text/markdown",
     description='User-Agent and Referer Header SQLI Fuzzer',
