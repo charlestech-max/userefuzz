@@ -1,4 +1,3 @@
-    description='User-Agent and Referer Header SQLI Fuzzer',
     url='https://github.com/root-tanishq/userefuzz',
     author='Tanishq Rathore',
     license='MIT',
