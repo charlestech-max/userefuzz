@@ -1,4 +1,3 @@
-    url='https://github.com/root-tanishq/userefuzz',
     author='Tanishq Rathore',
     license='MIT',
     packages=['userefuzz'],
