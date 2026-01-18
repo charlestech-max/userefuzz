@@ -1,5 +1,3 @@
-    author='Tanishq Rathore',
-    license='MIT',
     packages=['userefuzz'],
     install_requires=['requests','colorama'],
     classifiers=[
