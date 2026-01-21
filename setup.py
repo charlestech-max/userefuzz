@@ -1,4 +1,3 @@
-    classifiers=[
         'Programming Language :: Python :: 3',
     ],
     entry_points={
