@@ -1,4 +1,3 @@
-    install_requires=['requests','colorama'],
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
