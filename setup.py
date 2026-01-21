@@ -1,7 +1,3 @@
-    packages=['userefuzz'],
-    install_requires=['requests','colorama'],
-    classifiers=[
-        'Programming Language :: Python :: 3',
     ],
     entry_points={
         'console_scripts': [
