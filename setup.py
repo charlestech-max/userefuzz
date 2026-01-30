@@ -1,4 +1,3 @@
-    entry_points={
         'console_scripts': [
             'userefuzz = userefuzz.__main__:main'
         ]
