@@ -1,4 +1,3 @@
-            'userefuzz = userefuzz.__main__:main'
         ]
     },
 )
